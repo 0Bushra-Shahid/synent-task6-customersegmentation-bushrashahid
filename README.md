@@ -56,3 +56,7 @@ These insights can help the mall design targeted marketing strategies for each c
 2. Install required libraries: `pip install pandas numpy matplotlib seaborn scikit-learn`
 3. Open `segmentation.ipynb` in Jupyter Notebook
 4. Run all cells in order
+
+## Author Name
+  Bushra Shahid
+  
